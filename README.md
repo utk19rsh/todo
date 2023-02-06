@@ -1,6 +1,7 @@
-# todo
+# To-Do Tasks App
 
-A new Flutter project.
+A cross platform application helps you create tasks from your reminder purposes and helps you keep a track of them.
+
 
 ## Getting Started
 
